@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+# 读乐乐
+## 没有4G、3G或Wi-Fi？随时查看网页图片和视频，不受网络限制！
 
-You can use the [editor on GitHub](https://github.com/myreader/myreader.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+#### 1、轻松保存网页文件(图片和视频)到手机和平板，稍后阅读。
+#### 2、提供知乎日报订阅和阅读，随时涨姿势。
+#### 3、支持订阅微信公众号帐号，可以查看历史文章。
+#### 4、好喜欢某个Tumblr帐号，一键图文和视频全部下载到手机。
+#### 5、提供热门微信公众号文章实时排行榜，不错过热点。
+#### 6、支持快捷分享到微信和朋友圈等，独乐乐不如众乐乐。
+#### 7、增加蓝牙聊天、图片和文件传送功能。男人喜欢蓝牙，任何东西加上了蓝牙都会好很多！
+#### Offline Save,Video Saver,Web Saver,Html Saver,Rss Reader。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 应用商店下载
 
-```markdown
-Syntax highlighted code block
+商店名称 | 下载链接
+---|---
+酷安市场| http://www.coolapk.com/apk/com.liuyx.myreader
+应用宝  | http://android.myapp.com/myapp/detail.htm?apkName=com.liuyx.myreader
+百度手机| https://mobile.baidu.com/item?type=soft&docid=23133935
+360手机 | http://zhushou.360.cn/detail/index/soft_id/3381439
+华为应用|http://appstore.huawei.com/app/C100037721
+PP助手|http://m.pp.cn/detail.html?ch_src=pp&appid=7253951
+神马应用|http://a.sm.cn/details/info?pkg=com.liuyx.myreader
+锤子应用|http://s.t.tt/LVYy4w?&source=share&version=2
+豌豆荚  | http://www.wandoujia.com/apps/com.liuyx.myreader
 
-# Header 1
-## Header 2
-### Header 3
+---
+## 下载最新版
 
-- Bulleted
-- List
+下载读乐乐：https://github.com/liuyaoxing/MyReader/raw/master/releases/MyReader_v3.4_sign_legu_signed_zipalign.apk
 
-1. Numbered
-2. List
+---
+## 使用指南
 
-**Bold** and _Italic_ and `Code` text
+使用指南：https://github.com/liuyaoxing/MyReader/blob/master/使用指南.HowToUse.md
+ 
+ 
+ ---
+ 
+## 应用截图
+![image](https://github.com/liuyaoxing/MyReader/raw/master/images/readme/Screenshot_2017_main.png)
 
-[Link](url) and ![Image](src)
-```
+![image](https://github.com/liuyaoxing/MyReader/raw/master/images/readme/Screenshot_2016_offlinefilter.png)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![image](https://github.com/liuyaoxing/MyReader/raw/master/images/readme/Screenshot_2016_offlinedetail.png)
 
-### Jekyll Themes
+![image](https://github.com/liuyaoxing/MyReader/raw/master/images/readme/Screenshot_2017_acct_nzzd.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/myreader/myreader.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![image](https://github.com/liuyaoxing/MyReader/raw/master/images/readme/Screenshot_2017_acct_tcxxm.png)
