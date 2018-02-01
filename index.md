@@ -17,7 +17,7 @@
 
 商店名称 | 下载链接
 ---|---
-酷安市场| http://www.coolapk.com/apk/com.liuyx.myreader
+酷安市场| [http://www.coolapk.com/apk/com.liuyx.myreader](http://www.coolapk.com/apk/com.liuyx.myreader)
 应用宝  | http://android.myapp.com/myapp/detail.htm?apkName=com.liuyx.myreader
 百度手机| https://mobile.baidu.com/item?type=soft&docid=23244194
 小米应用|http://app.mi.com/details?id=com.liuyx.myreader
