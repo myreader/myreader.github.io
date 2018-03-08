@@ -17,9 +17,9 @@
 
 商店名称 | 下载链接
 ---|---
-酷安市场| [http://www.coolapk.com/apk/com.liuyx.myreader](http://www.coolapk.com/apk/com.liuyx.myreader)
+酷安市场| http://www.coolapk.com/apk/com.liuyx.myreader
 应用宝  | http://android.myapp.com/myapp/detail.htm?apkName=com.liuyx.myreader
-百度手机| https://mobile.baidu.com/item?type=soft&docid=23244194
+百度手机| https://mobile.baidu.com/item?type=soft&docid=23310856
 小米应用|http://app.mi.com/details?id=com.liuyx.myreader
 360手机 | http://zhushou.360.cn/detail/index/soft_id/3381439
 华为应用|http://appstore.huawei.com/app/C100037721
@@ -27,11 +27,12 @@ PP助手|http://m.pp.cn/detail.html?ch_src=pp&appid=7253951
 神马应用|http://a.sm.cn/details/info?pkg=com.liuyx.myreader
 锤子应用|http://s.t.tt/LVYy4w?&source=share&version=2
 豌豆荚  | http://www.wandoujia.com/apps/com.liuyx.myreader
+魅族应用|http://app.flyme.cn/apps/public/detail?package_name=com.liuyx.myreader
 
 ---
 ## 下载最新版
 
-下载读乐乐：https://github.com/liuyaoxing/MyReader/raw/master/releases/MyReader_v3.6_sign_legu_signed_zipalign.apk
+下载读乐乐：https://github.com/liuyaoxing/MyReader/raw/master/releases/MyReader_v3.8_sign_legu_signed_zipalign.apk
 
 ---
 ## 使用指南
@@ -42,12 +43,18 @@ PP助手|http://m.pp.cn/detail.html?ch_src=pp&appid=7253951
  ---
  
 ## 应用截图
+#### 首页应用
+
 ![image](https://github.com/liuyaoxing/MyReader/raw/master/images/readme/Screenshot_2017_main.png)
 
-![image](https://github.com/liuyaoxing/MyReader/raw/master/images/readme/Screenshot_2016_offlinefilter.png)
-
+#### 查看文章
 ![image](https://github.com/liuyaoxing/MyReader/raw/master/images/readme/Screenshot_2016_offlinedetail.png)
 
+#### 最新500条
 ![image](https://github.com/liuyaoxing/MyReader/raw/master/images/readme/Screenshot_2017_acct_nzzd.png)
 
+#### 看一看
 ![image](https://github.com/liuyaoxing/MyReader/raw/master/images/readme/Screenshot_2017_acct_tcxxm.png)
+
+#### 搜索过滤
+![image](https://github.com/liuyaoxing/MyReader/raw/master/images/readme/Screenshot_2016_offlinefilter.png)
